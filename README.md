@@ -63,5 +63,3 @@ Passionate about full-stack development and helping businesses go online.
 MIT License
 
 
-Would you like me to add this directly into your ZIP as a file or paste it into your project now?
-
